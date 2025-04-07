@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@theme{ 
+--color-fm-dark_blue: hsl(240, 38%, 20%);
+--color-fm-grayish_blue: hsl(240, 18%, 77%);
+--font-fm-inter: 'Inter', sans-serif;
+}
