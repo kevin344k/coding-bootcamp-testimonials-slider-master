@@ -10,9 +10,9 @@ This is a solution to the [Coding bootcamp testimonials slider challenge on Fron
 
 
 ### Screenshot
-- Mobile design
+- Desktop design
 ![](./design/desktop-design-slide-1.jpg)
--Desktop design
+-Mobile design
 ![](./design/mobile-design-slide-1.jpg)
 
 
